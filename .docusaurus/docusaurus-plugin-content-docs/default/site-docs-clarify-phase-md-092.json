@@ -1,0 +1,16 @@
+{
+  "unversionedId": "clarify-phase",
+  "id": "clarify-phase",
+  "title": "Clarify Phase",
+  "description": "Purpose",
+  "source": "@site/docs/clarify-phase.md",
+  "sourceDirName": ".",
+  "slug": "/clarify-phase",
+  "permalink": "/clarify-phase",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Clarify Phase"
+  }
+}

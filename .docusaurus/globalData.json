@@ -1,0 +1,70 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/",
+          "mainDocId": "index",
+          "docs": [
+            {
+              "id": "clarify-phase",
+              "path": "/clarify-phase"
+            },
+            {
+              "id": "constitution-phase",
+              "path": "/constitution-phase"
+            },
+            {
+              "id": "getting-started",
+              "path": "/getting-started",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "implement-phase",
+              "path": "/implement-phase"
+            },
+            {
+              "id": "index",
+              "path": "/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "installation-setup",
+              "path": "/installation-setup"
+            },
+            {
+              "id": "plan-phase",
+              "path": "/plan-phase"
+            },
+            {
+              "id": "spec-kit-plus-foundation",
+              "path": "/spec-kit-plus-foundation"
+            },
+            {
+              "id": "specify-phase",
+              "path": "/specify-phase"
+            },
+            {
+              "id": "tasks-phase",
+              "path": "/tasks-phase"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/",
+                "label": "index"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

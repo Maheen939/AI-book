@@ -1,0 +1,16 @@
+{
+  "unversionedId": "specify-phase",
+  "id": "specify-phase",
+  "title": "Specify Phase",
+  "description": "Purpose",
+  "source": "@site/docs/specify-phase.md",
+  "sourceDirName": ".",
+  "slug": "/specify-phase",
+  "permalink": "/specify-phase",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Specify Phase"
+  }
+}

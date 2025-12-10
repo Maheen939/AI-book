@@ -1,0 +1,16 @@
+{
+  "unversionedId": "plan-phase",
+  "id": "plan-phase",
+  "title": "Plan Phase",
+  "description": "Purpose",
+  "source": "@site/docs/plan-phase.md",
+  "sourceDirName": ".",
+  "slug": "/plan-phase",
+  "permalink": "/plan-phase",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Plan Phase"
+  }
+}

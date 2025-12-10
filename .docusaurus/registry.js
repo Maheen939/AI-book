@@ -1,0 +1,15 @@
+export default {
+  '092b39f1': [() => import(/* webpackChunkName: '092b39f1' */ '@site/docs/clarify-phase.md'), '@site/docs/clarify-phase.md', require.resolveWeak('@site/docs/clarify-phase.md')],
+  '0d35abc7': [() => import(/* webpackChunkName: '0d35abc7' */ '@site/docs/specify-phase.md'), '@site/docs/specify-phase.md', require.resolveWeak('@site/docs/specify-phase.md')],
+  '17896441': [() => import(/* webpackChunkName: '17896441' */ '@theme/DocItem'), '@theme/DocItem', require.resolveWeak('@theme/DocItem')],
+  '1be78505': [() => import(/* webpackChunkName: '1be78505' */ '@theme/DocPage'), '@theme/DocPage', require.resolveWeak('@theme/DocPage')],
+  '6795feb0': [() => import(/* webpackChunkName: '6795feb0' */ '@site/docs/tasks-phase.md'), '@site/docs/tasks-phase.md', require.resolveWeak('@site/docs/tasks-phase.md')],
+  '79deb4f3': [() => import(/* webpackChunkName: '79deb4f3' */ 'D:\\agentic ai\\Ai textbook\\.docusaurus\\docusaurus-plugin-content-docs\\default\\plugin-route-context-module-100.json'), 'D:\\agentic ai\\Ai textbook\\.docusaurus\\docusaurus-plugin-content-docs\\default\\plugin-route-context-module-100.json', require.resolveWeak('D:\\agentic ai\\Ai textbook\\.docusaurus\\docusaurus-plugin-content-docs\\default\\plugin-route-context-module-100.json')],
+  '7ae30a6e': [() => import(/* webpackChunkName: '7ae30a6e' */ '@site/docs/installation-setup.md'), '@site/docs/installation-setup.md', require.resolveWeak('@site/docs/installation-setup.md')],
+  '935f2afb': [() => import(/* webpackChunkName: '935f2afb' */ '~docs/default/version-current-metadata-prop-751.json'), '~docs/default/version-current-metadata-prop-751.json', require.resolveWeak('~docs/default/version-current-metadata-prop-751.json')],
+  '9b032ae3': [() => import(/* webpackChunkName: '9b032ae3' */ '@site/docs/implement-phase.md'), '@site/docs/implement-phase.md', require.resolveWeak('@site/docs/implement-phase.md')],
+  '9d7ece54': [() => import(/* webpackChunkName: '9d7ece54' */ '@site/docs/plan-phase.md'), '@site/docs/plan-phase.md', require.resolveWeak('@site/docs/plan-phase.md')],
+  'b3a1902b': [() => import(/* webpackChunkName: 'b3a1902b' */ '@site/docs/spec-kit-plus-foundation.md'), '@site/docs/spec-kit-plus-foundation.md', require.resolveWeak('@site/docs/spec-kit-plus-foundation.md')],
+  'bfbb630d': [() => import(/* webpackChunkName: 'bfbb630d' */ '@site/docs/constitution-phase.md'), '@site/docs/constitution-phase.md', require.resolveWeak('@site/docs/constitution-phase.md')],
+  'c377a04b': [() => import(/* webpackChunkName: 'c377a04b' */ '@site/docs/index.md'), '@site/docs/index.md', require.resolveWeak('@site/docs/index.md')],
+  'd589d3a7': [() => import(/* webpackChunkName: 'd589d3a7' */ '@site/docs/getting-started.md'), '@site/docs/getting-started.md', require.resolveWeak('@site/docs/getting-started.md')],};

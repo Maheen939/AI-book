@@ -1,0 +1,16 @@
+{
+  "unversionedId": "constitution-phase",
+  "id": "constitution-phase",
+  "title": "Constitution Phase",
+  "description": "Purpose",
+  "source": "@site/docs/constitution-phase.md",
+  "sourceDirName": ".",
+  "slug": "/constitution-phase",
+  "permalink": "/constitution-phase",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Constitution Phase"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "unversionedId": "installation-setup",
+  "id": "installation-setup",
+  "title": "Installation & Setup",
+  "description": "Configure Your AI Companion & Workspace",
+  "source": "@site/docs/installation-setup.md",
+  "sourceDirName": ".",
+  "slug": "/installation-setup",
+  "permalink": "/installation-setup",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Installation & Setup"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "unversionedId": "spec-kit-plus-foundation",
+  "id": "spec-kit-plus-foundation",
+  "title": "Spec-Kit Plus Foundation",
+  "description": "What Spec-Kit Plus Is",
+  "source": "@site/docs/spec-kit-plus-foundation.md",
+  "sourceDirName": ".",
+  "slug": "/spec-kit-plus-foundation",
+  "permalink": "/spec-kit-plus-foundation",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Spec-Kit Plus Foundation"
+  }
+}

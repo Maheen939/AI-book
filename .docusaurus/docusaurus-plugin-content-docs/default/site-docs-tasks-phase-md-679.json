@@ -1,0 +1,16 @@
+{
+  "unversionedId": "tasks-phase",
+  "id": "tasks-phase",
+  "title": "Tasks Phase",
+  "description": "Purpose",
+  "source": "@site/docs/tasks-phase.md",
+  "sourceDirName": ".",
+  "slug": "/tasks-phase",
+  "permalink": "/tasks-phase",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Tasks Phase"
+  }
+}

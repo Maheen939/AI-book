@@ -1,0 +1,16 @@
+{
+  "unversionedId": "implement-phase",
+  "id": "implement-phase",
+  "title": "Implement Phase",
+  "description": "Purpose",
+  "source": "@site/docs/implement-phase.md",
+  "sourceDirName": ".",
+  "slug": "/implement-phase",
+  "permalink": "/implement-phase",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Implement Phase"
+  }
+}

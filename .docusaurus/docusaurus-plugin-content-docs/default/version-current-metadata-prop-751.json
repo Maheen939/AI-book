@@ -1,0 +1,93 @@
+{
+  "pluginId": "default",
+  "version": "current",
+  "label": "Next",
+  "banner": null,
+  "badge": false,
+  "noIndex": false,
+  "className": "docs-version-current",
+  "isLast": true,
+  "docsSidebars": {
+    "tutorialSidebar": [
+      {
+        "type": "link",
+        "label": "Home",
+        "href": "/",
+        "docId": "index"
+      },
+      {
+        "type": "link",
+        "label": "Getting Started",
+        "href": "/getting-started",
+        "docId": "getting-started"
+      },
+      {
+        "type": "category",
+        "label": "Specification",
+        "items": [
+          {
+            "type": "link",
+            "label": "Textbook Spec",
+            "href": "/specs/physical-ai-robotics-textbook/spec.md"
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true
+      }
+    ]
+  },
+  "docs": {
+    "clarify-phase": {
+      "id": "clarify-phase",
+      "title": "Clarify Phase",
+      "description": "Purpose"
+    },
+    "constitution-phase": {
+      "id": "constitution-phase",
+      "title": "Constitution Phase",
+      "description": "Purpose"
+    },
+    "getting-started": {
+      "id": "getting-started",
+      "title": "Getting Started",
+      "description": "This guide helps you run the local Docusaurus dev server and add content.",
+      "sidebar": "tutorialSidebar"
+    },
+    "implement-phase": {
+      "id": "implement-phase",
+      "title": "Implement Phase",
+      "description": "Purpose"
+    },
+    "index": {
+      "id": "index",
+      "title": "Home",
+      "description": "Welcome to the working documentation site for the \"Teaching Physical AI & Humanoid Robotics\" textbook.",
+      "sidebar": "tutorialSidebar"
+    },
+    "installation-setup": {
+      "id": "installation-setup",
+      "title": "Installation & Setup",
+      "description": "Configure Your AI Companion & Workspace"
+    },
+    "plan-phase": {
+      "id": "plan-phase",
+      "title": "Plan Phase",
+      "description": "Purpose"
+    },
+    "spec-kit-plus-foundation": {
+      "id": "spec-kit-plus-foundation",
+      "title": "Spec-Kit Plus Foundation",
+      "description": "What Spec-Kit Plus Is"
+    },
+    "specify-phase": {
+      "id": "specify-phase",
+      "title": "Specify Phase",
+      "description": "Purpose"
+    },
+    "tasks-phase": {
+      "id": "tasks-phase",
+      "title": "Tasks Phase",
+      "description": "Purpose"
+    }
+  }
+}
