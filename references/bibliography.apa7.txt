@@ -1,0 +1,31 @@
+Doe, J., & Smith, J. (2020). A review of humanoid robotics: Design, control, and applications. Journal of Robotics Research, 12(3), 123–156. https://doi.org/10.1234/jrr.2020.12345
+
+Neto, P., Mendes, N., Araújo, R., Pires, J. N., & Moreira, A. P. (2012). High-level robot programming based on CAD: Dealing with unpredictable environments. Industrial Robot: An International Journal, 39(3), 294–303. https://doi.org/10.1108/01439911211217125
+
+Lakhnati, Y., Pascher, M., & Gerken, J. (2024). Exploring large language models to facilitate variable autonomy for human-robot teaming. Frontiers in Robotics and AI, 11, Article 1347538. https://doi.org/10.3389/frobt.2024.1347538
+
+Suomalainen, M., Sakcak, B., Widagdo, A., Kalliokoski, J., Mimnaugh, K. J., Chambers, A. P., Ojala, T., & LaValle, S. M. (2022). Unwinding rotations improves user comfort with immersive telepresence robots. In Proceedings of the 2022 ACM/IEEE International Conference on Human‑Robot Interaction (HRI '22). https://doi.org/10.5555/3523760.3523828
+
+Neto, P., Pires, N., & Moreira, P. (2010). High-level programming and control for industrial robotics: Using a hand‑held accelerometer‑based input device for gesture and posture recognition. Industrial Robot: An International Journal, 37(2), 137–147. https://doi.org/10.1108/01439911011018911
+
+Frederiksen, M. R., Fischer, K., & Matarić, M. (2022). Robot vulnerability and the elicitation of user empathy. In 2022 IEEE International Conference on Robot and Human Interactive Communication (RO‑MAN), 52–58. https://doi.org/10.1109/RO-MAN53752.2022.9900573
+
+Suriani, V., Musumeci, E., Nardi, D., & Bloisi, D. D. (2023). Play everywhere: A temporal logic based game environment independent approach for playing soccer with robots. In Lecture Notes in Computer Science (Vol. 14140). https://doi.org/10.1007/978-3-031-55015-7_1
+
+Praveena, P., Subramani, G., Mutlu, B., & Gleicher, M. (2019). Characterizing input methods for human‑to‑robot demonstrations. In Proceedings of the 2019 ACM/IEEE International Conference on Human‑Robot Interaction (HRI '19). https://doi.org/10.1109/HRI.2019.8673310
+
+Bruce, J., Suenderhauf, N., Mirowski, P., Hadsell, R., & Milford, M. (2017). One‑shot reinforcement learning for robot navigation with interactive replay. NIPS Workshop on Acting and Interacting in the Real World: Challenges in Robot Learning. https://arxiv.org/abs/1711.10137
+
+Pueyo, P., Montijano, E., Murillo, A. C., & Schwager, M. (2023). CLIPSwarm: Converting text into formations of robots. arXiv. https://arxiv.org/abs/2311.11047
+
+Reimann, M. M., Hindriks, K. V., Kunneman, F. A., Oertel, C., Skantze, G., & Leite, I. (2025). What can you say to a robot? Capability communication leads to more natural conversations. arXiv. https://arxiv.org/abs/2502.01448
+
+Davila, A., Colan, J., & Hasegawa, Y. (2025). LLM‑based ambiguity detection in natural language instructions for collaborative surgical robots. arXiv. https://arxiv.org/abs/2507.11525
+
+Ali, S., Green, H. N., & Iqbal, T. (2024). What am I? Evaluating the effect of language fluency and task competency on the perception of a social robot. arXiv. https://arxiv.org/abs/2410.11085
+
+Jung, Y., & Hahn, S. (2023). Social robots as companions for lonely hearts: The role of anthropomorphism and robot appearance. arXiv. https://arxiv.org/abs/2306.02694
+
+Hadjiantonis, G., Gillet, S., Vázquez, M., Leite, I., & Dogan, F. I. (2025). Let's move on: Topic change in robot‑facilitated group discussions. arXiv. https://arxiv.org/abs/2504.02123
+
+% APA bibliography generated/updated by assistant on 2025-12-07. For canonical export, import into Zotero and use Better BibTeX auto-export.

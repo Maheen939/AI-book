@@ -1,0 +1,4 @@
+/* Minimal custom CSS for Docusaurus site */
+body {
+  --ifm-font-family-base: 'Inter', Arial, sans-serif;
+}

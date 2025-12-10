@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "SlashCommand(/sp.phr --title \"Constitution Update\" --stage constitution --feature none)",
+      "Bash(.specify/scripts/bash/create-phr.sh:*)",
+      "SlashCommand(/sp.phr --title \"ADR Creation Failed - Plan Missing\" --stage general --feature none)",
+      "Bash(.specify/scripts/powershell/setup-plan.ps1:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
