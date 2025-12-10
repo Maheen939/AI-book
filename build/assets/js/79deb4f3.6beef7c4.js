@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkphysical_ai_textbook_site=self.webpackChunkphysical_ai_textbook_site||[]).push([[165],{1966:e=>{e.exports=JSON.parse('{"name":"docusaurus-plugin-content-docs","id":"default"}')}}]);
